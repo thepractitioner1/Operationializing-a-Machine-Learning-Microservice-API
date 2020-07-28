@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+https://circleci.com/github/thepractitioner1/Operationializing-a-Machine-Learning-Microservice-API.svg?style=svg
+
 
 ## Project Overview
 
