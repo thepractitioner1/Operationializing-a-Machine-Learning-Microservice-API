@@ -1,4 +1,4 @@
-https://circleci.com/github/thepractitioner1/Operationializing-a-Machine-Learning-Microservice-API.svg?style=svg
+https://circleci.com/gh/thepractitioner1/Operationializing-a-Machine-Learning-Microservice-API.svg?style=svg
 
 
 ## Project Overview
