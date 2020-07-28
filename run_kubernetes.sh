@@ -20,4 +20,4 @@ kubectl get pods
 
 # Step 4:
 # Forward the container port to a host
-kubectl port-forward flaskapp 8000:80
+kubectl port-forward myflaskapp 8000:80
